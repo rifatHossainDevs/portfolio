@@ -79,7 +79,7 @@ BTEB — GPA: **3.85 / 4.00**
 
 Visit my live portfolio:
 
-**https://rifathossaindevs.github.io/**
+**[https://rifathossaindevs.github.io/](https://rifathossaindevs.github.io/portfolio/)**
 
 ---
 
