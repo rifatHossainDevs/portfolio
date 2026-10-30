@@ -4,7 +4,7 @@ export const profile = {
   intro: "I'm Md. Rifat Hossain, an Android & Flutter Developer focused on building clean, scalable, and user-friendly mobile applications using modern development technologies and architecture patterns.",
   location: 'Mirpur-13, Dhaka, Bangladesh', phone: '+8801750057251', email: 'mdrifathossain472@gmail.com',
   github: 'https://github.com/rifatHossainDevs', linkedin: 'https://www.linkedin.com/in/md-rifat-hossain-0014a7237/',
-  cv: '/Rifat-Hossain-CV.pdf',
+  cv: `${import.meta.env.BASE_URL}Rifat-Hossain-CV.pdf`,
 }
 export const nav = ['Home', 'About', 'Skills', 'Projects', 'Experience', 'Education', 'Certifications', 'Contact']
 export const stats = [
