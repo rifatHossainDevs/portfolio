@@ -5,7 +5,7 @@ export const profile = {
   location: 'Mirpur-13, Dhaka, Bangladesh', phone: '+8801750057251', email: 'mdrifathossain472@gmail.com',
   github: 'https://github.com/rifatHossainDevs', linkedin: 'https://www.linkedin.com/in/md-rifat-hossain-0014a7237/',
   cv: `${import.meta.env.BASE_URL}Rifat-Hossain-CV.pdf`,
-  photo: `${import.meta.env.BASE_URL}profile.jpg`, // put your photo at public/profile.jpg
+  photo: `${import.meta.env.BASE_URL}profile.jpg`,
 }
 export const nav = ['Home', 'About', 'Skills', 'Projects', 'Experience', 'Education', 'Certifications', 'Contact']
 export const stats = [
